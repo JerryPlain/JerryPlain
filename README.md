@@ -21,10 +21,9 @@
 ## About Me
 ### Research Interests
 - Embodied AI
-- Robot Learning
 - Agentic AI
 - Multimodal Learning
-- LLM Alignment
+- Foundation Model
 
 ### Selected Publication
 **[1] SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence, EMNLP 2025**  
