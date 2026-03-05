@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&desc=Robotics%20and%20Artificial%20Intelligence%20%7C%20TUM&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2563EB&center=true&vCenter=true&width=780&lines=Embodied+AI+%7C+Robot+Learning+%7C+Agentic+AI;Multimodal+Learning+%7C+LLM+Alignment;Building+reliable+and+adaptive+intelligent+systems" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2563EB&center=true&vCenter=true&width=780&lines=let%27s+build+something+great+together%21%21" alt="typing intro" />
 </div>
 
 <div align="center">
