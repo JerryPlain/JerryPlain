@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&desc=MSc%20Robotics%20%7C%20TUM&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&desc=MSc%20Robotics%20%26%20AI%20%40%20TUM&descAlignY=58&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
@@ -27,11 +27,10 @@
 - LLM Alignment
 
 ### Selected Publication
-**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**  
-EMNLP 2025
+**[1] SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence, EMNLP 2025**  
 
 ### Featured Project
-**LLM-Assisted Hierarchical Reward Shaping for Offline-to-Online RL in Warehouse Navigation**
+**[1] LLM-Assisted Hierarchical Reward Shaping for Offline-to-Online RL in Warehouse Navigation**
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0ea5e9&bg_color=ffffff" alt="github stats" />
