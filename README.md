@@ -19,10 +19,6 @@
 ---
 
 ## About Me
-<table>
-  <tr>
-    <td valign="top" width="58%">
-
 ### Research Interests
 - Embodied AI
 - Robot Learning
@@ -37,14 +33,14 @@ EMNLP 2025
 ### Featured Project
 **LLM-Assisted Hierarchical Reward Shaping for Offline-to-Online RL in Warehouse Navigation**
 
-  </td>
-    <td valign="top" width="42%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0ea5e9&bg_color=ffffff" alt="github stats" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=jerryplain&hide_border=true&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&dates=475569&sideNums=0F172A&currStreakNum=0F172A" alt="streak stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0ea5e9&bg_color=ffffff" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryplain&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jerryplain&hide_border=true&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&dates=475569&sideNums=0F172A&currStreakNum=0F172A" alt="streak stats" />
+</div>
 
 ---
 
