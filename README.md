@@ -29,10 +29,6 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 - Multimodal Learning
 - Foundation Models
 
-### Selected Work
-- **SwarmAgentic**: Towards Fully Automated Agentic System Generation via Swarm Intelligence, EMNLP 2025
-- **LLM-Assisted Hierarchical Reward Shaping**: Offline-to-Online RL in Warehouse Navigation
-
 ## GitHub Highlights
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=percentile&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=ffffff" alt="GitHub stats" />
