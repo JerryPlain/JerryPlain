@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=38&fontSize=54&fontColor=ffffff&desc=Embodied%20AI%20%7C%20Agentic%20AI%20%7C%20Multimodal%20Learning&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2563EB&center=true&vCenter=true&width=780&lines=let%27s+build+something+great+together%21%21" alt="typing intro" />
+  <p>
+    Building reliable intelligent systems for research and real-world deployment.
+  </p>
 </div>
 
 <div align="center">
@@ -13,12 +15,14 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jerryplain&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jerryplain&label=Profile%20Views&color=16a34a&style=flat-square" alt="profile views" />
 </div>
 
 ---
 
 ## About Me
+I focus on embodied agents, multimodal reasoning, and foundation-model-driven systems, with an emphasis on research that is both technically rigorous and practically deployable.
+
 ### Research Interests
 - Embodied AI
 - Agentic AI
@@ -30,6 +34,10 @@
 
 ### Featured Project
 **[1] LLM-Assisted Hierarchical Reward Shaping for Offline-to-Online RL in Warehouse Navigation**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=header" alt="section divider" />
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0ea5e9&bg_color=ffffff" alt="github stats" />
@@ -44,7 +52,7 @@
 
 ## GitHub Highlights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerryplain&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jerryplain&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="trophies" />
 </div>
 
 <div align="center">
@@ -56,5 +64,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=2&section=footer" alt="footer line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:22c55e&height=3&section=footer" alt="footer line" />
 </div>
