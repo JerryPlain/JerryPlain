@@ -40,6 +40,10 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 </div>
 
 <div align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=jerryplain&hide_border=false&border_radius=18&background=FFFFFF&border=E2E8F0&stroke=CBD5E1&ring=5EEAD4&fire=F59E0B&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=EA580C&sideLabels=334155&dates=64748B" alt="Contribution streak" />
+</div>
+
+<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerryplain&theme=github-compact&hide_border=true&line=0ea5e9&point=22c55e&area=true&bg_color=ffffff&color=475569&title_color=0f172a" alt="activity graph" />
 </div>
 
