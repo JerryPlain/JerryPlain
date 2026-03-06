@@ -52,15 +52,17 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 
 ## GitHub Highlights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerryplain&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=percentile&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=ffffff" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryplain&layout=compact&langs_count=8&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerryplain&theme=minimal&hide_border=true&line=0ea5e9&point=22c55e&area=true&area_color=bae6fd&color=334155" alt="activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerryplain&theme=github-compact&hide_border=true&line=0ea5e9&point=22c55e&area=true&bg_color=ffffff&color=475569&title_color=0f172a" alt="activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryplain&theme=github" alt="profile details" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=jerryplain&hide_border=true&mode=weekly&background=FFFFFF&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&dates=64748B&sideNums=0F172A&currStreakNum=0F172A&sideLabels=475569" alt="streak stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryplain&theme=transparent&utcOffset=8" alt="productive time" />
 </div>
 
 <div align="center">
