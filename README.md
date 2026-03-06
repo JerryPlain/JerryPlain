@@ -27,28 +27,11 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 - Embodied AI
 - Agentic AI
 - Multimodal Learning
-- Foundation Model
+- Foundation Models
 
-### Selected Publication
-**[1] SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence, EMNLP 2025**  
-
-### Featured Project
-**[1] LLM-Assisted Hierarchical Reward Shaping for Offline-to-Online RL in Warehouse Navigation**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=header" alt="section divider" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryplain&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0ea5e9&bg_color=ffffff" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryplain&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jerryplain&hide_border=true&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&dates=475569&sideNums=0F172A&currStreakNum=0F172A" alt="streak stats" />
-</div>
-
----
+### Selected Work
+- **SwarmAgentic**: Towards Fully Automated Agentic System Generation via Swarm Intelligence, EMNLP 2025
+- **LLM-Assisted Hierarchical Reward Shaping**: Offline-to-Online RL in Warehouse Navigation
 
 ## GitHub Highlights
 <div align="center">
@@ -61,7 +44,7 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryplain&theme=transparent" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryplain&theme=transparent" alt="GitHub summary stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryplain&theme=transparent&utcOffset=8" alt="productive time" />
 </div>
 
