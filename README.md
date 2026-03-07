@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    Building reliable intelligent systems for research and real-world deployment.
+    Building reliable intelligent systems for research and real-world deployment
   </p>
 </div>
 
