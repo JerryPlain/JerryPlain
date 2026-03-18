@@ -29,15 +29,6 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 - Multimodal Learning
 - Foundation Models
 
-## GitHub Highlights
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryplain&theme=github" alt="GitHub profile details" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=jerryplain&hide_border=false&border_radius=18&background=FFFFFF&border=E2E8F0&stroke=CBD5E1&ring=5EEAD4&fire=F59E0B&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=EA580C&sideLabels=334155&dates=64748B" alt="Contribution streak" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:22c55e&height=3&section=footer" alt="footer line" />
 </div>
