@@ -29,6 +29,12 @@ I focus on embodied agents, multimodal reasoning, and foundation-model-driven sy
 - Multimodal Learning
 - Foundation Models
 
+## Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jerryplain&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub achievements" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:22c55e&height=3&section=footer" alt="footer line" />
 </div>
