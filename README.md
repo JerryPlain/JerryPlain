@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">
-  <a href="https://jerryplain.github.io/"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://scholar.google.com/citations?user=hfjfsC8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://linkedin.com/in/jerryzhou11"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jerryplain@outlook.com"><img src="https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
