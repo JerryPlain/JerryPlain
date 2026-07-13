@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+robots+that+perceive%2C+reason+%26+act" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&background=00000000&center=true&vCenter=true&width=640&height=45&lines=Building+robots+that+perceive%2C+reason+and+act+safely" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,19 +44,6 @@ I am a Master's student in **Robotics, Cognition, Intelligence** at the **Techni
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JerryPlain&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=22c55e&text_color=94a3b8&bg_color=0f172a" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlain&layout=compact&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0f172a" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerryPlain&hide_border=true&background=0f172a&stroke=0ea5e9&ring=22c55e&fire=22c55e&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</div>
 
 <br/>
 
