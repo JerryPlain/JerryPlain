@@ -22,7 +22,7 @@
 
 ## 🤖 About Me
 
-I am a Master's student in **Robotics, Cognition, Intelligence** at the **Technical University of Munich**. My research lies at the intersection of **robotics, robot manipulation, and embodied interaction**, with the long-term goal of developing intelligent robotic systems that can **perceive, reason about, and autonomously interact with** complex real-world environments.
+My research lies at the intersection of **robotics, robot manipulation, and embodied interaction**, with the long-term goal of developing intelligent robotic systems that can **perceive, reason about, and autonomously interact with** complex real-world environments.
 
 <br/>
 
