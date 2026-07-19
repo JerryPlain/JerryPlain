@@ -26,7 +26,7 @@ My research lies at the intersection of **robotics, robot manipulation, and embo
 
 <br/>
 
-## 🔬 Research Interests
+<!-- ## 🔬 Research Interests
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ My research lies at the intersection of **robotics, robot manipulation, and embo
   </tr>
 </table>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:22c55e&height=3&section=footer" alt="footer line" />
