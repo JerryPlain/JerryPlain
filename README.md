@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:0ea5e9,100:22c55e&text=Shijie%20Zhou&fontAlignY=36&fontSize=56&fontColor=ffffff&desc=Robotics%20%E2%80%A2%20Robot%20Manipulation%20%E2%80%A2%20Embodied%20AI&descAlignY=56&descSize=18&animation=fadeIn" alt="header" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&background=00000000&center=true&vCenter=true&width=800&height=45&lines=Building+robots+that+perceive%2C+reason+and+act+safely" alt="Typing SVG" />
-  </a>
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&background=00000000&center=true&vCenter=true&width=800&height=45&lines=Building+robots+that+perceive%2C+reason+and+act+safely" alt="Typing SVG" /> -->
+  <!-- </a>
+</div> -->
 
 <div align="center">
   <a href="https://scholar.google.com/citations?user=hfjfsC8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
