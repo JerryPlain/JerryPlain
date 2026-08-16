@@ -9,7 +9,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jerryplain&label=Profile%20Views&color=16a34a&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jerryplain&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="profile views" />
 </div>
 
 <br/>
