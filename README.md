@@ -8,25 +8,6 @@ My research lies at the intersection of **robotics, robot manipulation, and embo
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JerryPlain&theme=transparent" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JerryPlain&theme=transparent" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JerryPlain&hide_border=true&background=00000000&ring=0ea5e9&fire=22c55e&currStreakLabel=0ea5e9&sideLabels=8b949e&currStreakNum=22c55e&sideNums=8b949e&dates=8b949e&stroke=8b949e" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerryPlain&hide_border=true&bg_color=00000000&color=8b949e&title_color=0ea5e9&line=0ea5e9&point=22c55e&area=true&area_color=0ea5e9" alt="Contribution graph" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:22c55e&height=3&section=footer" alt="footer line" />
   <br/><br/>
